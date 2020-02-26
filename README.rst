@@ -68,12 +68,12 @@ persons and some FAKE financial informations.
     :target: https://coveralls.io/github/LucaCappelletti94/random_csv_generator?branch=master
     :alt: Coveralls Coverage
 
-.. |pip| image:: https://badge.fury.io/py/random_csv_generator.svg
-    :target: https://badge.fury.io/py/random_csv_generator
+.. |pip| image:: https://badge.fury.io/py/random-csv-generator.svg
+    :target: https://badge.fury.io/py/random-csv-generator
     :alt: Pypi project
 
-.. |downloads| image:: https://pepy.tech/badge/random_csv_generator
-    :target: https://pepy.tech/badge/random_csv_generator
+.. |downloads| image:: https://pepy.tech/badge/random-csv-generator
+    :target: https://pepy.tech/badge/random-csv-generator
     :alt: Pypi total project downloads
 
 .. |codacy| image:: https://api.codacy.com/project/badge/Grade/d158345b4c244c5f9937bf8630309f85
