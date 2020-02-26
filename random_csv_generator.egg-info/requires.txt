@@ -1,0 +1,9 @@
+random_italian_person>=1.0.1
+pandas
+
+[test]
+pytest
+pytest-cov
+coveralls
+validate_version_code
+codacy-coverage
