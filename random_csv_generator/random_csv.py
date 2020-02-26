@@ -8,7 +8,10 @@ locale.setlocale(locale.LC_ALL, 'it_IT.UTF-8')
 
 def money_amount():
     total = random.randrange(0, 100000)
-    payed = random.randrange(0, total)
+    if total > 0:
+        payed = random.randrange(0, total)
+    else:
+        payed = 0
     return {
         "total_debit": locale.currency(total, grouping=True),
         "payed_debit": locale.currency(payed, grouping=True)
