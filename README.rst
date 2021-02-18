@@ -29,7 +29,7 @@ persons and some FAKE financial informations.
 
 .. code:: python
 
-    from random_csv_generator image random_csv
+    from random_csv_generator random_csv
 
     df = random_csv(300) # To generate a CSV with 300 rows
 
