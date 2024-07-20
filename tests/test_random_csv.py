@@ -6,8 +6,8 @@ from random_csv_generator import random_csv
 
 def test_random_csv():
     """Test the random_csv function."""
-    for _ in trange(10):
-        random_csv()
+    for iteration in trange(10):
+        random_csv(random_state=(iteration + 1) * 756, maximum_money_amount=10)
 
 
 def test_random_state_reproducibility():

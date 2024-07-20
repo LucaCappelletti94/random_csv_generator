@@ -1,4 +1,4 @@
-# random_csv_generator
+# Random CSV generator
 
 [![pip](https://badge.fury.io/py/random-csv-generator.svg)](https://badge.fury.io/py/random-csv-generator)
 [![python](https://img.shields.io/pypi/pyversions/random-csv-generator)](https://pypi.org/project/random-csv-generator/)
